@@ -1,1 +1,1 @@
-# pasuxebi-ge
+# pasuxebi.ge
